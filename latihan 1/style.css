@@ -1,0 +1,30 @@
+.row {
+    border: 1px solid black;
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+.column {
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+.blue {
+    background-color: blue;
+}
